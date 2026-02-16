@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Last Updated: [Date]
+Last Updated: 16/02/2026
 
 ## 1. Introduction
 
-Welcome to [Your Business Name].  
+Welcome to Alqatarya for Constructions.  
 We respect your privacy and are committed to protecting your personal information.
 
 This Privacy Policy explains how we collect, use, and safeguard your information when you submit your details through our advertisements and lead forms.
@@ -68,7 +68,7 @@ Depending on your location, you may have the right to:
 
 To exercise these rights, contact us at:
 
-📧 Email: [Your Contact Email]
+📧 Email: alqataryacom@gmail.com
 
 ---
 
@@ -76,10 +76,9 @@ To exercise these rights, contact us at:
 
 If you have any questions about this Privacy Policy, please contact us:
 
-[Your Business Name]  
-Email: [Your Contact Email]  
-Phone: [Optional Phone Number]  
-Country: [Your Country]
+Alqatarya for Constructions
+Email: alqataryacom@gmail.com 
+Country: Kuwait
 
 ---
 
